@@ -1,2 +1,4 @@
-# casa-museo-virtual-luis-geraldi
-Museo virtual para el Museo Luis Geraldi
+# Proyecto Museo Luis Geraldi
+
+- Sitio web
+- Recorrido virtual del museo
